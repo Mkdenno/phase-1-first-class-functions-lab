@@ -1,9 +1,9 @@
 // Code your solution in this file!
 const drivers = ['Antonia', 'Nuru', 'Amari', 'Mo'];
-function returnFirstTwoDrivers(){
+const returnFirstTwoDrivers=function(){
      return drivers.slice(0,2);
 }
-function returnLastTwoDrivers(){
+const returnLastTwoDrivers=function(){
     return drivers.slice(-2)
 }
 const selectingDrivers=[returnFirstTwoDrivers,returnLastTwoDrivers];
