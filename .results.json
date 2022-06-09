@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-08T15:17:29.797Z",
-    "end": "2022-06-08T15:17:30.093Z",
-    "duration": 296
+    "start": "2022-06-09T12:56:08.555Z",
+    "end": "2022-06-09T12:56:08.966Z",
+    "duration": 411
   },
   "tests": [
     {
@@ -76,7 +76,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +97,7 @@
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -171,7 +171,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,7 +192,7 @@
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
