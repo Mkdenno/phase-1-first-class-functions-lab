@@ -8,8 +8,8 @@ const returnLastTwoDrivers=function(){
 }
 const selectingDrivers=[returnFirstTwoDrivers,returnLastTwoDrivers];
 const createFareMultiplier=function(fareMultiplier){
-        return function(value){
-            return fareMultiplier *value;
+        return function(num){
+            return fareMultiplier *num;
 
         }
 
